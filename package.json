@@ -3,11 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-<<<<<<< HEAD
-    "dev": "vue-cli-service serve",
-=======
     "serve": "vue-cli-service serve",
->>>>>>> cd5d0ee1dcee0f0ee0414384d660203b62e3c722
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
@@ -23,10 +19,7 @@
     "@vue/cli-service": "^3.8.0",
     "@vue/eslint-config-standard": "^4.0.0",
     "babel-eslint": "^10.0.1",
-<<<<<<< HEAD
     "echarts": "^4.2.1",
-=======
->>>>>>> cd5d0ee1dcee0f0ee0414384d660203b62e3c722
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
     "less": "^3.0.4",
